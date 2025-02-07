@@ -24,9 +24,6 @@ let innerF = outerFunction();
 
 innerF();
 
-
-
-
 // class
 class Animal {
   constructor() {
